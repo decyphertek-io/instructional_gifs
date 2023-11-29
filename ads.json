@@ -1,1 +1,18 @@
-{}
+{
+    "decyphertek-auth": {
+        "projectName": "decyphertek-auth",
+        "description": "decyphertek-io",
+        "type": "community",
+        "author": "decyphertek-io",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/decyphertek-io/instructional_gifs",
+        "githubUri": "https://github.com/decyphertek-io/instructional_gifs",
+        "license": "apache-2.0",
+        "lastUpdated": "1701279668620",
+        "tags": [
+            "community"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
